@@ -1,4 +1,4 @@
-package $organization;format="dotReverse,package"$.$name;format="package"$
+package $organization;format="dotReverse,package"$.$name;format="space,package"$
 
 // Organization dotReverse $organization;format="dot-reverse"$
 // Organization space $organization;format="space"$
