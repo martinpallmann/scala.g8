@@ -1,9 +1,9 @@
 package $organization;format="dotReverse,package"$.$name;format="package"$
 
-// Organization dotReverse $organization;format="dotReverse"$
+// Organization dotReverse $organization;format="dot-reverse"$
 // Organization space $organization;format="space"$
-// Organization packaged $organization;format="packaged"$
-// Organization dotReverse,packaged $organization;format="dotReverse,packaged"$
+// Organization packaged $organization;format="package-dir"$
+// Organization dotReverse,packaged $organization;format="dot-reverse,package-dir"$
 
 object Main:
   def main(args: Array[String]): Unit = ???
